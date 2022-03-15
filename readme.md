@@ -66,7 +66,7 @@ Circle has been drawn!
 Square has been drawn!
 ```
 
-Notice, here we have used the parent class `Shape` to create both *circle* and *square* objects and yet `draw()` method was *binded* at the run time not at the compilation time to the `Circle` and `Square` classes, respectively. This polymorphism in action - one method in parent class got overridden in child classes.
+Notice, here we have used the parent class `Shape` to create both *circle* and *square* objects and yet `draw()` method was *binded* at the runtime not at the compilation time to the `Circle` and `Square` classes, respectively. This polymorphism in action - one method in parent class got overridden in child classes.
 
 ---
 Two rules of thumb here.
