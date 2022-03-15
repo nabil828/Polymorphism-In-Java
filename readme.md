@@ -155,6 +155,8 @@ public class Driver {
 
 ```
 
+---
+
 # Test Your Understanding - 1
 What is the output of the following driver code snippet:
 
@@ -248,3 +250,6 @@ Remember:
 > Java uses an object's dynamic type, not its name, to see which method to invoke.
 
 </details>
+
+---
+**Read along** -> Data Structures and Abstractions with Java -> Java Interlude 7 -> Pages 513-524
