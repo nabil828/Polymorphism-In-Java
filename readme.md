@@ -1,4 +1,6 @@
  # Polymorphism
+ ###### [Reading time - 10 minutes]
+
  In Java, Polymorphism allows the same function to mean different things in different contexts.
  Without even knowing it, you have been using polymorphism!
 
