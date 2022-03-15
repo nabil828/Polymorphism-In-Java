@@ -81,7 +81,9 @@ Second,
 
 ---
 
-Now, you might be asking yourself - why we have created `aShape` with `Shape` class if we meant to assign it to `Circle` class eventually. To answer this, let us first check the following example:
+Now, you might be asking yourself - why we have created `aShape` with `Shape` class if we meant to assign it to `Circle` class eventually?
+
+To answer this, let us first check the following example:
 
 ```Java
 public class Driver {
