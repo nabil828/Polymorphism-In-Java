@@ -1,5 +1,5 @@
- # Polymorphism 
- In Java, polymorphism allows the same function to mean different things in different contexts.
+ # Polymorphism
+ In Java, Polymorphism allows the same function to mean different things in different contexts.
  Without even knowing it, you have been using polymorphism. Remember function overloading? If yes, this is the first reference for polymorphism in programing. Later the term shifted to refer to an object determining at the execution time which *overloaded* implementation should be executed.
 
  # Example
