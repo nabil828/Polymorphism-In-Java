@@ -25,7 +25,7 @@ Suppose we have the following `Shape` class:
  ```
  Shape has been drawn!
  ```
-Now say we want to define shapes like a circle or a square and draw them. It might be intuitive to you here to use inheritance.
+Now, say we want to define shapes like a circle or a square and draw them. It might be intuitive to you here to use inheritance.
 
 Since both *circle* and *square* classes are basically shapes and eventually they will have their own draw methods, it make sense to inherit the shape class as the following:
 
