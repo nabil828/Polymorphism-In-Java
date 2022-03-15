@@ -119,7 +119,7 @@ public class Driver {
 ```
 Notice here how late binding allowed us to call the `draw()` method on any object of type `Shape`. This is useful for any application that would require us to implement different implementations for the same method name, again, depending on the context!
 
-Before closing here, let me just remind you  that you might unwittingly used polymorphism in Java! For example, most likely you have been calling  `toString()` method on some object in Java to get the *String* value of an object. Now this method is a member of the parent class `Object` and hence, it is inherited by all the other classes in Java, including your ones that did not exist until you have wrote them! This means that you can override this method to print the proper *String* representation of your object. May be like this:
+Before closing here, let me just remind you  that you might unwittingly used polymorphism in Java! For example, most likely you have been calling  `toString()` method on some object in Java to get the *String* value of an object. Now, this method is a member of the parent class `Object` and hence, it is inherited by all the other classes in Java, including your ones that did not exist until you have wrote them! This means that you can override this method to print the proper *String* representation of your object. May be like this:
 
 
 ```Java
